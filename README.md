@@ -16,6 +16,15 @@ A dark and light theme for [Zed](https://zed.dev) inspired by [Codex](https://de
 
 ## Install
 
+### Via Zed Extensions (recommended)
+
+1. Open Zed and go to **Extensions** (`Cmd+Shift+X`)
+2. Search for **Codex**
+3. Click **Install**
+4. Open the command palette (`Cmd+Shift+P`), search for **theme**, and select **Codex Dark** or **Codex Light**
+
+### Manual
+
 Copy the theme file to your Zed themes directory:
 
 ```sh

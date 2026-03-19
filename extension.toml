@@ -1,0 +1,11 @@
+id = "codex"
+name = "Codex"
+description = "Dark and light theme inspired by Codex."
+version = "1.0.0"
+schema_version = 1
+authors = ["Cameron Cooper"]
+repository = "https://github.com/cameroncooper/codex-zed-theme"
+
+[themes]
+[themes.codex]
+path = "themes/codex.json"
