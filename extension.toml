@@ -1,5 +1,5 @@
-id = "codex"
-name = "Codex"
+id = "codex-theme"
+name = "Codex Theme"
 description = "Dark and light theme inspired by Codex."
 version = "1.0.0"
 schema_version = 1
@@ -7,5 +7,5 @@ authors = ["Cameron Cooper"]
 repository = "https://github.com/cameroncooper/codex-zed-theme"
 
 [themes]
-[themes.codex]
+[themes.codex-theme]
 path = "themes/codex.json"
